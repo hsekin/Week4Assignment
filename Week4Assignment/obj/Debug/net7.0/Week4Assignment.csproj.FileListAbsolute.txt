@@ -1,0 +1,15 @@
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/bin/Debug/net7.0/Week4Assignment
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/bin/Debug/net7.0/Week4Assignment.deps.json
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/bin/Debug/net7.0/Week4Assignment.runtimeconfig.json
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/bin/Debug/net7.0/Week4Assignment.dll
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/bin/Debug/net7.0/Week4Assignment.pdb
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.csproj.AssemblyReference.cache
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.AssemblyInfoInputs.cache
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.AssemblyInfo.cs
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.csproj.CoreCompileInputs.cache
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.dll
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/refint/Week4Assignment.dll
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.pdb
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/Week4Assignment.genruntimeconfig.cache
+/Users/hsekin/Projects/Week4Assignment/Week4Assignment/obj/Debug/net7.0/ref/Week4Assignment.dll
